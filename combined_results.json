@@ -1,0 +1,187 @@
+{
+  "large_model": "Llama 3 8B",
+  "small_model": "Llama 3.2 3B",
+  "total_queries": 20,
+  "results": [
+    {
+      "query_num": 1,
+      "question": "What are the CPT eligibility requirements?",
+      "context": "Curricular Practical Training (CPT)\nCurricular Practical Training (CPT)\nCurricular Practical Training (CPT) is an off-campus work authorization for internship experiences or employment which is necessary for program completion. SJSU students can do CPT throughout the year if they meet the CPT eligibility requirements. Please read the CPT policy below in order to maintain your lawful F-1 status.\n\nWhat is CPT?\nCPT is for employment which is an integral part of an established curriculum. CPT employ...",
+      "large_answer": "To be eligible for CPT, students must:\n\n1. Complete one academic year (one-year enrollment requirement) and be in valid F-1 status.\n2. Have an eligible F-1 visa status requiring full-time enrollment.\n3. Have a job offer that is directly related to their field of study.\n4. Enroll in one credit of internship, academic training, co-op, or practicum class for the semester in which the internship occurs.\n5. Be in good academic standing.\n6. Meet the departmental internship course requirements.",
+      "small_answer": "To be eligible for CPT, F-1 students must:\n\n* Complete one academic year (one-year enrollment requirement) and be in valid F-1 status\n* Have an eligible F-1 visa status requiring full-time enrollment\n* Have a job offer that is directly related to their field of study\n* Enroll in one credit of internship, academic training, co-op, or practicum class for the semester in which the internship occurs\n* Be in good academic standing\n* Meet the departmental internship course requirements",
+      "large_time": 2.2986886501312256,
+      "small_time": 7.5527753829956055
+    },
+    {
+      "query_num": 2,
+      "question": "How do I apply for OPT?",
+      "context": "Pre-Completion OPT\nPre Completion OPT\nOptional Practical Training (OPT) is employment authorization that allows students to gain practical experience in their field of study. Pre-Completion OPT takes place before a student's program end date.\n\nPre-Completion OPT Details:\n\u2022 Students may apply for Pre-Completion OPT while still enrolled in their degree program.\n\u2022 Employment must be directly related to the student\u2019s major.\n\u2022 Students may work part-time (20 hours or less) while school is in session....",
+      "large_answer": "To apply for OPT, follow these steps:\n\n1. Submit the OPT I-20 Request through the ISSS employment portal.\n2. Receive an updated I-20 with OPT recommendation.\n3. Submit Form I-765 and required documents to USCIS.\n4. Wait for Employment Authorization Document (EAD) approval before starting work.",
+      "small_answer": "To apply for OPT, follow these steps:\n\n1. Submit the OPT I-20 Request through the ISSS employment portal.\n2. Receive an updated I-20 with OPT recommendation.\n3. File Form I-765 with USCIS.\n4. Receive the Employment Authorization Document (EAD).\n5. Begin working only on or after the EAD start date.",
+      "large_time": 1.3049957752227783,
+      "small_time": 4.807323932647705
+    },
+    {
+      "query_num": 3,
+      "question": "What is the difference between CPT and OPT?",
+      "context": "Pre-Completion OPT\nPre Completion OPT\nOptional Practical Training (OPT) is employment authorization that allows students to gain practical experience in their field of study. Pre-Completion OPT takes place before a student's program end date.\n\nPre-Completion OPT Details:\n\u2022 Students may apply for Pre-Completion OPT while still enrolled in their degree program.\n\u2022 Employment must be directly related to the student\u2019s major.\n\u2022 Students may work part-time (20 hours or less) while school is in session....",
+      "large_answer": "CPT (Curricular Practical Training) allows F-1 students to work on-campus or off-campus in their field of study while still enrolled in classes, whereas OPT (Optional Practical Training) allows F-1 students to work in their field of study after completing their degree program, either before (Pre-Completion OPT) or after (Post-Completion OPT) graduating.",
+      "small_answer": "CPT (Curricular Practical Training) and OPT (Optional Practical Training) are both forms of work authorization for F-1 students, but they serve different purposes and have different rules:\n\n* CPT is for training that is related to the student's major and is taken during the academic year. It is deducted from the student's 12-month OPT allocation.\n* OPT is for gainful employment in the student's major after graduation, and can be used for a total of 12 months, including pre-completion and post-completion OPT.",
+      "large_time": 1.553236484527588,
+      "small_time": 1.6432971954345703
+    },
+    {
+      "query_num": 4,
+      "question": "How many units do I need for full-time enrollment?",
+      "context": "Concurrent Enrollment\nConcurrent Enrollment\nTo maintain full-time status, F-1 students can enroll at another institution concurrently*. Per F-1 regulations, a full-time course load is a minimum of 12 units total for undergraduate students, and a minimum of 9 units total for graduate students. Of this minimum, ONLY one course (3-4 units) of online coursework may be counted towards the full-time enrollment.\nYou MUST be enrolled in at least 6 units at SJSU.\nYou will need to fill out the Concurrent ...",
+      "large_answer": "For undergraduate students, at least 12 units, and for graduate students, at least 9 units.",
+      "small_answer": "For undergraduate students, at least 12 units, and for graduate students, at least 9 units.",
+      "large_time": 0.6841967105865479,
+      "small_time": 0.9650716781616211
+    },
+    {
+      "query_num": 5,
+      "question": "Can I work off-campus on F-1 visa?",
+      "context": "On-Campus Employment\nOn Campus Employment\nOn-Campus means the student is working physically on SJSU\u2019s campus and is earning a paycheck from SJSU. Students in F-1 status can work on-campus up to 20 hours per week during the semester. For graduate students, there are some exceptions to the 20 hours-per-week rule. Be sure to check in the hiring department to see if you are eligible to work above 20 hours per week on-campus. During summer/winter breaks students can work on-campus full-time, provided...",
+      "large_answer": "Yes, you can work off-campus as an F-1 student once you meet specific eligibility requirements. You can apply for Curricular Practical Training (CPT) or Optional Practical Training (OPT) which allow you to work legally in the United States.",
+      "small_answer": "Yes, F-1 students can work off-campus in practical training, which includes:\n\n* Curricular Practical Training (CPT) with university approval\n* Optional Practical Training (OPT) after graduating\n* STEM OPT for STEM majors (up to 24 months)",
+      "large_time": 1.1307556629180908,
+      "small_time": 1.2472624778747559
+    },
+    {
+      "query_num": 6,
+      "question": "What happens if I drop below full-time enrollment?",
+      "context": "Maintaining F-1 Status, Enrollment Requirements, Course Types, Exceptions\nMaintaining F-1 Status\nReview the following options for maintaining your F-1 Status\nEnrollment Requirements\nPost-Completion OPT\nSTEM OPT\nExceptions to Full-Time Enrollment\nOther Resources\n\nEnrollment Requirements\nPursue a full course of study (i.e., 12 units for UGRD and 9 units for GRAD).\nUnless authorized by ISSS for\nReduced Course Load\nConcurrent Enrollment\nCulminating Experience\nBe mindful of allowable online credits. ...",
+      "large_answer": "If you drop below full-time enrollment without ISSS approval, your F-1 status will be at risk.",
+      "small_answer": "Dropping below full-time enrollment without approval violates your F-1 status. You may be required to retake the full-time enrollment requirement, which can lead to a loss of OPT and/or STEM OPT eligibility.",
+      "large_time": 0.9435598850250244,
+      "small_time": 3.3739373683929443
+    },
+    {
+      "query_num": 7,
+      "question": "How do I apply for a reduced course load (RCL)?",
+      "context": "Reduced Course Load (RCL)\nReduced Course Load (RCL)\nFull-time enrollment required unless approved.\nSubmit RCL by last day to add classes.\nDropping below full-time without approval violates status.\n\nRCL Reasons:\nAcademic Difficulty (first semester only)\nImproper Course Level Placement\nFinal Semester RCL\nMedical RCL\n\nMedical RCL requires:\nLetter from U.S. doctor/psychologist\nExact term, reason, signature, license number\n\nUnit Rules:\nMust be in at least 6 units at SJSU.\nOnly 3 units can be online.\n...",
+      "large_answer": "To apply for a Reduced Course Load (RCL), submit the RCL form by the last day to add classes, providing the approved reason for the RCL (Academic Difficulty, Improper Course Level Placement, Final Semester RCL, or Medical RCL) and required supporting documentation (if applicable).",
+      "small_answer": "To apply for a Reduced Course Load (RCL), submit the request by the last day to add classes. You can request RCL for:\n\n* Academic Difficulty\n* Improper Course Level Placement\n* Final Semester RCL\n\nYou will need to provide a letter from a U.S. doctor/psychologist for Medical RCL. \n\nPlease note that you will need to meet with an ISSS advisor if needed.",
+      "large_time": 1.180527925491333,
+      "small_time": 1.3280408382415771
+    },
+    {
+      "query_num": 8,
+      "question": "What documents do I need to travel internationally?",
+      "context": "Required Immigration Documents \u2013 Overview\nInternational students must maintain valid immigration documents throughout their studies at SJSU. Students are responsible for keeping documents updated, unexpired, and in compliance with federal regulations.\n\n### Required Documents for All F-1 Students\n- **Valid Passport** \u2013 must remain valid at least 6 months into the future.\n- **Form I-20** \u2013 issued by SJSU; contains program dates, major, SEVIS ID.\n- **I-94 Arrival Record** \u2013 electronic arrival/depar...",
+      "large_answer": "To travel internationally, you will need:\n\n1. Valid Passport (valid for at least 6 months into the future)\n2. F-1 visa\n3. Original I-20 with a valid travel signature (less than 1 year old or 6 months old if on OPT)\n4. EAD card (if on OPT)\n5. Employment letter (if on OPT)\n6. Scanned copies of all documents (recommended)",
+      "small_answer": "To travel internationally, you'll need:\n\n* A valid passport (at least 6 months into the future)\n* A valid F-1 visa (if you're not transferring schools)\n* A completed Travel Signature Request (for students on OPT)\n* A valid I-20 with a travel signature (under 1 year old; 6 months if on OPT)\n* Proof of financial support\n* A transcript\n* SEVIS fee receipt\n\nIt's recommended to bring these documents with you, but be sure to check with your home country's consulate or embassy in the US for specific requirements.",
+      "large_time": 1.725691795349121,
+      "small_time": 8.433470487594604
+    },
+    {
+      "query_num": 9,
+      "question": "How do I update my address in SEVIS?",
+      "context": "Change of Address Requirements\nChange of Address\nAs an F-1 student, you must regularly report any address changes to a Designated School Official (DSO) to ensure that your information is correct in the Student and Exchange Visitor Information System (SEVIS). Federal regulations require that you report a change of address within 10 days of moving.\nIn MySJSU, the address type of SEVIS D is used for F-1 students to report your new residential (physical) address to SEVIS. Please follow the instructi...",
+      "large_answer": "To update your address in SEVIS, follow these steps:\n\n* If you are currently enrolled at SJSU, access MySJSU, go to the Personal Information section, and click \"Add a new address\" to find SEVIS D. Update your U.S. residential (physical) address in SEVIS D within 10 days of moving.\n* If you have graduated from SJSU and are on OPT or STEM OPT, update your address directly in the SEVP Portal.",
+      "small_answer": "As an F-1 student, you can update your address in SEVIS by:\n\n1. Accessing MySJSU and updating your address in the \"SEVIS D\" section within 10 days of moving.\nOR\n2. Using the SEVP Portal (if you are on OPT or STEM OPT)",
+      "large_time": 1.7005865573883057,
+      "small_time": 1.3045110702514648
+    },
+    {
+      "query_num": 10,
+      "question": "What is STEM OPT extension?",
+      "context": "24-Month STEM OPT Extension\n24 Month STEM Extension\nThe 24-Month STEM OPT Extension allows eligible F-1 students who completed a degree in a qualifying STEM field to apply for an additional 24 months of employment authorization beyond the initial 12 months of Post-Completion OPT.\n\nSTEM OPT Details:\n\u2022 Employment must be directly related to the student\u2019s STEM degree.\n\u2022 Students must work at least 20 hours per week.\n\u2022 Employer must be enrolled in E-Verify.\n\u2022 Students must complete and submit Form I...",
+      "large_answer": "The 24-Month STEM OPT Extension allows eligible F-1 students who completed a degree in a qualifying STEM field to apply for an additional 24 months of employment authorization beyond the initial 12 months of Post-Completion OPT.",
+      "small_answer": "The 24-Month STEM OPT Extension is an additional 24 months of employment authorization for F-1 students who completed a degree in a qualifying STEM field.",
+      "large_time": 1.0580763816833496,
+      "small_time": 2.4033923149108887
+    },
+    {
+      "query_num": 11,
+      "question": "How long can I stay in the US after graduation?",
+      "context": "Immigration Document Details \u2013 U.S. Visa Stamp\nThe U.S. visa stamp is placed in the passport by a U.S. Consulate and authorizes a student to request entry into the United States in F-1 status.\n\n### Important Facts\n- A valid visa is required for **entry**, not for remaining in the U.S.\n- Visa validity can be single-entry or multiple-entry.\n- Visa expiration date does **not** determine how long a student can stay in the U.S.\n\n### Visa Renewal\nStudents outside the U.S. with expired visas must:\n- Sc...",
+      "large_answer": "After graduation, you can stay in the US for 60 days to prepare for departure or to apply for a 12-month Optional Practical Training (OPT) extension, if eligible.",
+      "small_answer": "After graduation, you can stay in the US for **up to 60 days** to find a job. However, you must apply for Optional Practical Training (OPT) and maintain your visa status before the end of your 5-year period of authorized stay.",
+      "large_time": 0.8726375102996826,
+      "small_time": 1.3105590343475342
+    },
+    {
+      "query_num": 12,
+      "question": "Can I change my major on F-1 visa?",
+      "context": "Ending My F-1 Status\nEnding My F-1 Status\nReasons you may end your F-1 status:\n- Approved for new immigration status\n- Leaving U.S. to finish degree abroad\n- Ending OPT/STEM OPT earlier\n- Withdrawing or taking leave from SJSU\n- Graduating and departing U.S.\n\nDo NOT end F-1 status if you plan to:\n- Work on OPT\n- Change education level at SJSU\n- Transfer SEVIS record\n\nHow to end your status:\nSubmit \u201cEnd My F-1 Status\u201d request to ISSS.\nOnce approved, your SEVIS record ends.\n\nFuture return to U.S. i...",
+      "large_answer": "No, you should not change your major while on an F-1 visa.",
+      "small_answer": "No, you cannot change your major on F-1 visa. If you want to change your major, you need to withdraw from your current program and reapply for a new program with ISSS.",
+      "large_time": 0.9816625118255615,
+      "small_time": 3.660085678100586
+    },
+    {
+      "query_num": 13,
+      "question": "What is the grace period after OPT ends?",
+      "context": "Post-Completion OPT and STEM OPT Requirements\nPost-Completion OPT\nWork within the dates of the authorized (EAD) Employment Authorization Document.\nAll employment (paid or unpaid) must be related to your major field of study.\nEmployment must be at least 20 hours per week, in order not to accrue unemployment days.\nDo not exceed an aggregate of 90 days of unemployment.\nReport employment via the SEVP portal or directly to ISSS within 10 days.\nReport a change of address within 10 days of moving via t...",
+      "large_answer": "60 days.",
+      "small_answer": "There is no specified \"grace period\" after OPT ends. However, students are allowed to maintain their valid travel signature for 6 months after the end of OPT.",
+      "large_time": 0.8226828575134277,
+      "small_time": 2.773139238357544
+    },
+    {
+      "query_num": 14,
+      "question": "How do I transfer my SEVIS record to another school?",
+      "context": "Immigration Document Details \u2013 Form I-20\nThe Form I-20 \"Certificate of Eligibility for Nonimmigrant Student Status\" is issued by SJSU to confirm admission and eligibility for F-1 status.\n\n### Key Sections on the I-20\n- **SEVIS ID Number** \u2013 begins with 'N'; unique to each student.\n- **Program of Study** \u2013 degree level and major.\n- **Program Start and End Dates** \u2013 students must arrive no earlier than 30 days before the start date.\n- **Financials** \u2013 documentation of estimated expenses and proof ...",
+      "large_answer": "To transfer your SEVIS record to another school, you must:\n\n1. Maintain full-time status at your current school.\n2. Request your current school to release your SEVIS record to the new school.\n3. Receive a transfer-pending I-20 from the new school.",
+      "small_answer": "To transfer your SEVIS record to another school, you must:\n\n1. Maintain full-time status at your current school.\n2. Request your current school to release your SEVIS record to the new school.\n3. Receive a transfer-pending I-20 from the new school.",
+      "large_time": 1.4150111675262451,
+      "small_time": 1.2439050674438477
+    },
+    {
+      "query_num": 15,
+      "question": "Can I take online classes and maintain F-1 status?",
+      "context": "Maintaining F-1 Status, Enrollment Requirements, Course Types, Exceptions\nMaintaining F-1 Status\nReview the following options for maintaining your F-1 Status\nEnrollment Requirements\nPost-Completion OPT\nSTEM OPT\nExceptions to Full-Time Enrollment\nOther Resources\n\nEnrollment Requirements\nPursue a full course of study (i.e., 12 units for UGRD and 9 units for GRAD).\nUnless authorized by ISSS for\nReduced Course Load\nConcurrent Enrollment\nCulminating Experience\nBe mindful of allowable online credits. ...",
+      "large_answer": "Yes, you can take online classes and maintain F-1 status, but with certain limitations: \n\n* You can count only one online course or 3 units per semester towards your F-1 full-time enrollment requirement.\n* You must take the remaining courses in-person or hybrid.",
+      "small_answer": "No, you can take only ONE online course or 3 units per semester to maintain F-1 status. The remaining courses must be in-person or hybrid.",
+      "large_time": 1.2905097007751465,
+      "small_time": 2.3230175971984863
+    },
+    {
+      "query_num": 16,
+      "question": "What are the on-campus employment rules?",
+      "context": "On-Campus Employment\nOn Campus Employment\nOn-Campus means the student is working physically on SJSU\u2019s campus and is earning a paycheck from SJSU. Students in F-1 status can work on-campus up to 20 hours per week during the semester. For graduate students, there are some exceptions to the 20 hours-per-week rule. Be sure to check in the hiring department to see if you are eligible to work above 20 hours per week on-campus. During summer/winter breaks students can work on-campus full-time, provided...",
+      "large_answer": "For F-1 students at SJSU:\n\n* Can work on-campus up to 20 hours/week during the semester, with exceptions for graduate students.\n* Can work full-time on-campus during summer/winter breaks.\n* All on-campus jobs require I-20 with approved work authorization, except for jobs in Dining Services, Spartan Bookstore, or third-party vendors.\n* F-1 students are not eligible for Work-Study positions.",
+      "small_answer": "Here is a concise version of the on-campus employment rules for F-1 students:\n\n**General Rules**\n\n* F-1 students can work on-campus up to 20 hours/week during the semester.\n* Graduate students have exceptions to this rule; check with the hiring department for details.\n* Students can work full-time during summer/winter breaks if eligible and enrolled for the upcoming semester.\n\n**Requirements**\n\n* All on-campus jobs require employment authorization (I-20 with approved work authorization, except for Dining Services, Spartan Bookstore, or third-party vendors).\n* F-1 students are not eligible for Work Study positions.\n\n**Other**\n\n* F-1 students on OPT or STEM OPT must ensure all employment meets federal eligibility requirements.",
+      "large_time": 1.8300535678863525,
+      "small_time": 1.9033339023590088
+    },
+    {
+      "query_num": 17,
+      "question": "How do I report my employment on OPT?",
+      "context": "STEM OPT Reporting Requirements\nSTEM OPT Reporting Requirements\nStudents on the 24-Month STEM OPT Extension must follow specific reporting requirements in order to maintain F-1 status.\n\nReporting Requirements:\n\u2022 Report employment information within 10 days of any change.\n\u2022 Submit validation reports every 6 months.\n\u2022 Submit an annual self-evaluation (Form I-983).\n\u2022 Report termination of employment.\n\n6-Month Reporting:\nEvery 6 months, students must confirm the following:\n\u2022 Legal name\n\u2022 Residential...",
+      "large_answer": "You can report your employment on OPT via the SEVP portal or directly to ISSS within 10 days of any change, and every 6 months you must confirm your employment information, including your legal name, residential address, employer name and address, and continued employment. Additionally, if you are on STEM OPT, you must report employment and changes in employment within 10 days of the change via the STEM OPT Employment Update e-form.",
+      "small_answer": "To report your employment on OPT, you must:\n\n* Report employment information within 10 days of any change via the SEVP portal or directly to ISSS.\n* Submit validation reports every 6 months.\n* Submit an annual self-evaluation (Form I-983) at 12 months and 24 months.\n* Report termination of employment.",
+      "large_time": 1.4573509693145752,
+      "small_time": 1.2758376598358154
+    },
+    {
+      "query_num": 18,
+      "question": "What happens if my visa expires while I'm in the US?",
+      "context": "Immigration Document Details \u2013 U.S. Visa Stamp\nThe U.S. visa stamp is placed in the passport by a U.S. Consulate and authorizes a student to request entry into the United States in F-1 status.\n\n### Important Facts\n- A valid visa is required for **entry**, not for remaining in the U.S.\n- Visa validity can be single-entry or multiple-entry.\n- Visa expiration date does **not** determine how long a student can stay in the U.S.\n\n### Visa Renewal\nStudents outside the U.S. with expired visas must:\n- Sc...",
+      "large_answer": "If your visa expires while you're in the US, it does not affect your F-1 status. However, you must make sure your passport is valid for at least 6 months into the future to remain in the country.",
+      "small_answer": "If your visa expires while you're in the US, you can still stay in the country, but you'll need to renew your visa before it expires. To renew, you'll need to schedule a visa renewal appointment, present financial documents, and present an updated I-20 with a valid travel signature.",
+      "large_time": 1.9925744533538818,
+      "small_time": 4.316996335983276
+    },
+    {
+      "query_num": 19,
+      "question": "Can I do an unpaid internship on F-1 visa?",
+      "context": "Employer Guide for Hiring International Students\nEmployer Guide\nStudents in F-1 status are eligible for practical training opportunities off-campus once specific eligibility requirements are met. The two main types of employment authorizations available for F-1 students are Curricular Practical Training (CPT) and Optional Practical Training (OPT). These employment authorizations allow international students to work legally in the United States.\n\nEmployers hiring F-1 students for internships or f...",
+      "large_answer": "No, F-1 students are not allowed to do unpaid internships, except for volunteer or research assistantships that are required by the academic program and meet specific requirements. However, if you are on OPT or STEM OPT, you can do unpaid internships or volunteer work that is directly related to your field of study, but it must be less than 20 hours a week and not considered employment.",
+      "small_answer": "No, F-1 students are not allowed to work unpaid internships under their F-1 visa, except for volunteer work during Post-Completion OPT (up to 12 months after graduating). However, self-employment is allowed only during Post-Completion OPT.",
+      "large_time": 1.623884916305542,
+      "small_time": 1.2119526863098145
+    },
+    {
+      "query_num": 20,
+      "question": "How do I get a travel signature on my I-20?",
+      "context": "Immigration Document Details \u2013 Form I-20\nThe Form I-20 \"Certificate of Eligibility for Nonimmigrant Student Status\" is issued by SJSU to confirm admission and eligibility for F-1 status.\n\n### Key Sections on the I-20\n- **SEVIS ID Number** \u2013 begins with 'N'; unique to each student.\n- **Program of Study** \u2013 degree level and major.\n- **Program Start and End Dates** \u2013 students must arrive no earlier than 30 days before the start date.\n- **Financials** \u2013 documentation of estimated expenses and proof ...",
+      "large_answer": "To get a travel signature on your I-20, complete the Travel Signature Request and submit it to ISSS. Processing time is 2-3 business days.",
+      "small_answer": "To get a travel signature on your I-20, complete the Travel Signature Request form and submit it to the ISSS office. Processing typically takes 2-3 business days.",
+      "large_time": 0.7554094791412354,
+      "small_time": 2.8568310737609863
+    }
+  ]
+}

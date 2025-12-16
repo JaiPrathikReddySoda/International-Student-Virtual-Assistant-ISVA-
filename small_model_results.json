@@ -1,0 +1,126 @@
+{
+  "model": "Llama 3.2 3B (meta-llama/llama-3.2-3b-instruct:free)",
+  "total_queries": 20,
+  "results": [
+    {
+      "query_num": 1,
+      "question": "What are the CPT eligibility requirements?",
+      "answer": "To be eligible for CPT, F-1 students must:\n\n* Complete one academic year (one-year enrollment requirement) and be in valid F-1 status\n* Have an eligible F-1 visa status requiring full-time enrollment\n* Have a job offer that is directly related to their field of study\n* Enroll in one credit of internship, academic training, co-op, or practicum class for the semester in which the internship occurs\n* Be in good academic standing\n* Meet the departmental internship course requirements",
+      "time": 7.5527753829956055
+    },
+    {
+      "query_num": 2,
+      "question": "How do I apply for OPT?",
+      "answer": "To apply for OPT, follow these steps:\n\n1. Submit the OPT I-20 Request through the ISSS employment portal.\n2. Receive an updated I-20 with OPT recommendation.\n3. File Form I-765 with USCIS.\n4. Receive the Employment Authorization Document (EAD).\n5. Begin working only on or after the EAD start date.",
+      "time": 4.807323932647705
+    },
+    {
+      "query_num": 3,
+      "question": "What is the difference between CPT and OPT?",
+      "answer": "CPT (Curricular Practical Training) and OPT (Optional Practical Training) are both forms of work authorization for F-1 students, but they serve different purposes and have different rules:\n\n* CPT is for training that is related to the student's major and is taken during the academic year. It is deducted from the student's 12-month OPT allocation.\n* OPT is for gainful employment in the student's major after graduation, and can be used for a total of 12 months, including pre-completion and post-completion OPT.",
+      "time": 1.6432971954345703
+    },
+    {
+      "query_num": 4,
+      "question": "How many units do I need for full-time enrollment?",
+      "answer": "For undergraduate students, at least 12 units, and for graduate students, at least 9 units.",
+      "time": 0.9650716781616211
+    },
+    {
+      "query_num": 5,
+      "question": "Can I work off-campus on F-1 visa?",
+      "answer": "Yes, F-1 students can work off-campus in practical training, which includes:\n\n* Curricular Practical Training (CPT) with university approval\n* Optional Practical Training (OPT) after graduating\n* STEM OPT for STEM majors (up to 24 months)",
+      "time": 1.2472624778747559
+    },
+    {
+      "query_num": 6,
+      "question": "What happens if I drop below full-time enrollment?",
+      "answer": "Dropping below full-time enrollment without approval violates your F-1 status. You may be required to retake the full-time enrollment requirement, which can lead to a loss of OPT and/or STEM OPT eligibility.",
+      "time": 3.3739373683929443
+    },
+    {
+      "query_num": 7,
+      "question": "How do I apply for a reduced course load (RCL)?",
+      "answer": "To apply for a Reduced Course Load (RCL), submit the request by the last day to add classes. You can request RCL for:\n\n* Academic Difficulty\n* Improper Course Level Placement\n* Final Semester RCL\n\nYou will need to provide a letter from a U.S. doctor/psychologist for Medical RCL. \n\nPlease note that you will need to meet with an ISSS advisor if needed.",
+      "time": 1.3280408382415771
+    },
+    {
+      "query_num": 8,
+      "question": "What documents do I need to travel internationally?",
+      "answer": "To travel internationally, you'll need:\n\n* A valid passport (at least 6 months into the future)\n* A valid F-1 visa (if you're not transferring schools)\n* A completed Travel Signature Request (for students on OPT)\n* A valid I-20 with a travel signature (under 1 year old; 6 months if on OPT)\n* Proof of financial support\n* A transcript\n* SEVIS fee receipt\n\nIt's recommended to bring these documents with you, but be sure to check with your home country's consulate or embassy in the US for specific requirements.",
+      "time": 8.433470487594604
+    },
+    {
+      "query_num": 9,
+      "question": "How do I update my address in SEVIS?",
+      "answer": "As an F-1 student, you can update your address in SEVIS by:\n\n1. Accessing MySJSU and updating your address in the \"SEVIS D\" section within 10 days of moving.\nOR\n2. Using the SEVP Portal (if you are on OPT or STEM OPT)",
+      "time": 1.3045110702514648
+    },
+    {
+      "query_num": 10,
+      "question": "What is STEM OPT extension?",
+      "answer": "The 24-Month STEM OPT Extension is an additional 24 months of employment authorization for F-1 students who completed a degree in a qualifying STEM field.",
+      "time": 2.4033923149108887
+    },
+    {
+      "query_num": 11,
+      "question": "How long can I stay in the US after graduation?",
+      "answer": "After graduation, you can stay in the US for **up to 60 days** to find a job. However, you must apply for Optional Practical Training (OPT) and maintain your visa status before the end of your 5-year period of authorized stay.",
+      "time": 1.3105590343475342
+    },
+    {
+      "query_num": 12,
+      "question": "Can I change my major on F-1 visa?",
+      "answer": "No, you cannot change your major on F-1 visa. If you want to change your major, you need to withdraw from your current program and reapply for a new program with ISSS.",
+      "time": 3.660085678100586
+    },
+    {
+      "query_num": 13,
+      "question": "What is the grace period after OPT ends?",
+      "answer": "There is no specified \"grace period\" after OPT ends. However, students are allowed to maintain their valid travel signature for 6 months after the end of OPT.",
+      "time": 2.773139238357544
+    },
+    {
+      "query_num": 14,
+      "question": "How do I transfer my SEVIS record to another school?",
+      "answer": "To transfer your SEVIS record to another school, you must:\n\n1. Maintain full-time status at your current school.\n2. Request your current school to release your SEVIS record to the new school.\n3. Receive a transfer-pending I-20 from the new school.",
+      "time": 1.2439050674438477
+    },
+    {
+      "query_num": 15,
+      "question": "Can I take online classes and maintain F-1 status?",
+      "answer": "No, you can take only ONE online course or 3 units per semester to maintain F-1 status. The remaining courses must be in-person or hybrid.",
+      "time": 2.3230175971984863
+    },
+    {
+      "query_num": 16,
+      "question": "What are the on-campus employment rules?",
+      "answer": "Here is a concise version of the on-campus employment rules for F-1 students:\n\n**General Rules**\n\n* F-1 students can work on-campus up to 20 hours/week during the semester.\n* Graduate students have exceptions to this rule; check with the hiring department for details.\n* Students can work full-time during summer/winter breaks if eligible and enrolled for the upcoming semester.\n\n**Requirements**\n\n* All on-campus jobs require employment authorization (I-20 with approved work authorization, except for Dining Services, Spartan Bookstore, or third-party vendors).\n* F-1 students are not eligible for Work Study positions.\n\n**Other**\n\n* F-1 students on OPT or STEM OPT must ensure all employment meets federal eligibility requirements.",
+      "time": 1.9033339023590088
+    },
+    {
+      "query_num": 17,
+      "question": "How do I report my employment on OPT?",
+      "answer": "To report your employment on OPT, you must:\n\n* Report employment information within 10 days of any change via the SEVP portal or directly to ISSS.\n* Submit validation reports every 6 months.\n* Submit an annual self-evaluation (Form I-983) at 12 months and 24 months.\n* Report termination of employment.",
+      "time": 1.2758376598358154
+    },
+    {
+      "query_num": 18,
+      "question": "What happens if my visa expires while I'm in the US?",
+      "answer": "If your visa expires while you're in the US, you can still stay in the country, but you'll need to renew your visa before it expires. To renew, you'll need to schedule a visa renewal appointment, present financial documents, and present an updated I-20 with a valid travel signature.",
+      "time": 4.316996335983276
+    },
+    {
+      "query_num": 19,
+      "question": "Can I do an unpaid internship on F-1 visa?",
+      "answer": "No, F-1 students are not allowed to work unpaid internships under their F-1 visa, except for volunteer work during Post-Completion OPT (up to 12 months after graduating). However, self-employment is allowed only during Post-Completion OPT.",
+      "time": 1.2119526863098145
+    },
+    {
+      "query_num": 20,
+      "question": "How do I get a travel signature on my I-20?",
+      "answer": "To get a travel signature on your I-20, complete the Travel Signature Request form and submit it to the ISSS office. Processing typically takes 2-3 business days.",
+      "time": 2.8568310737609863
+    }
+  ]
+}
