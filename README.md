@@ -102,7 +102,7 @@ We evaluated both models against 20 "Gold Standard" queries ranging from CPT eli
 ## File Structure
 
 - `SJSU_RAG.ipynb`: Main source code containing the Scraper, RAG pipeline, and Gradio app.  
-- `sjsu_deadlines.csv`: Structured dataset used by the "Database Tool" for processing times.  
+- `sjsu_isss.json`: Structured dataset extracted from the isss website.  
 - `large_model_results.json`: Raw evaluation logs for the 8B model.  
 - `small_model_results.json`: Raw evaluation logs for the 3B model.  
 - `combined_results.json`: Head-to-head comparison data.
