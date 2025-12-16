@@ -72,7 +72,13 @@ text
 
 ## Interactive Demo Features
 
-The UI provides specific controls to test the system's robustness:
+A short walkthrough of the system, showcasing the full pipeline and output.
+
+**Demo video:**  
+
+https://drive.google.com/file/d/1I2HrciK086BbL-TUko4pMFLyk1IyFVNT/view?usp=sharing
+
+The UI provides specific controls to test the system's robustness: 
 
 - **Model Selector:** Switch between **Llama-3-8B** (Large) and **Llama-3.2-3B** (Small).
 - **Reasoning Strategy:** Toggle between *Hybrid Search*, *Prompt Chaining*, or *Self-Reflection*.
